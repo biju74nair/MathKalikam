@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MathPalace</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="newGame">NewGame</string>
+    <string name="about">About MP</string>
+    <string name="info">Arrange the numbers in order, by moving the numbers to the empty spot. \\nClick on number near to empty spot to move</string>
+
+</resources>
